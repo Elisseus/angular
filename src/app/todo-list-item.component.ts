@@ -7,7 +7,7 @@ import { Component } from "@angular/core";
 
 })
 export class TodoListItemComponent {
-    taskTitle = 'Angular'
+    taskTitle = 'eliseus'
     
     updateTitle(newTitle:string) {
         this.taskTitle = newTitle
